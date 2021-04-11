@@ -385,7 +385,9 @@ div.logo i{
 }
 
 @media only screen and (max-width:576px){
-
+    div.logo i{
+    display:block;
+}
     div.footer-input input, textarea{
         width:90%;
     }
